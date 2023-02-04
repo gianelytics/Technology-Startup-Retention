@@ -29,7 +29,8 @@ El objetivo es ayudar a la CEO de la startup a determinar si la inversión recib
 
 En este proyecto se realizó un análisis a partir de un conjunto de datos sobre los clientes que usan un software de gestión de gastos en la nube.
 
-💻 [Proyecto 2: Reporte](https://docs.google.com/spreadsheets/d/1JikkQmyqWjzyq7ZJAeVr1LvYGQkRuKlRCSY7pJWkkfI/edit?usp=sharing)
+<h3 align="left"> 📝 <a href="https://docs.google.com/spreadsheets/d/1JikkQmyqWjzyq7ZJAeVr1LvYGQkRuKlRCSY7pJWkkfI/edit?usp=sharing">Proyecto2: Reporte</a>
+</h3>
 
 ## Solución
 <div align="center">
