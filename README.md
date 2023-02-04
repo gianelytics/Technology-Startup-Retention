@@ -2,7 +2,7 @@
 
 ![](/Portada-1.jpg)
 
-Proyecto realizado en el bootcamp de [Laboratoria](https://app.laboratoria.la/signup-and-login/)
+Proyecto realizado en el bootcamp de [Laboratoria](https://app.laboratoria.la/signup-and-login/) e IBM
 </div>
 
 ## 🎓 Objetivos del proyecto
