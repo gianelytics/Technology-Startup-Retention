@@ -29,14 +29,14 @@ Proyecto realizado en el bootcamp de [Laboratoria](https://app.laboratoria.la/si
 
 En este proyecto se realizó un análisis a partir de un conjunto de datos sobre los clientes que usan un software de gestión de gastos en la nube.
 
-<h3 align="left"> 📝 <a href="https://docs.google.com/spreadsheets/d/1JikkQmyqWjzyq7ZJAeVr1LvYGQkRuKlRCSY7pJWkkfI/edit?usp=sharing">Proyecto2: Reporte</a>
+<h3 align="left"> 📝 <a href="https://docs.google.com/spreadsheets/d/1JikkQmyqWjzyq7ZJAeVr1LvYGQkRuKlRCSY7pJWkkfI/edit?usp=sharing">Proyecto2: Reporte Google Sheets</a>
 </h3>
 
 ## Solución
 <div align="center">
   
-  <a target="_blank" href="https://www.loom.com/share/2c86d07be73f44129c84a6433b162720" rel="noopener noreferrer" >![](https://cdn.loom.com/sessions/thumbnails/1cf81c035e6a44459233d21f4ef94abd-1644468351800-with-play.gif)</a>
-  
+  <a target="_blank" href="https://www.loom.com/share/2c86d07be73f44129c84a6433b162720" rel="noopener noreferrer" >![](https://cdn.loom.com/sessions/thumbnails/2c86d07be73f44129c84a6433b162720-1675567549093-with-play.gif)
+  </a>
 </div>
 
 Contenido:
