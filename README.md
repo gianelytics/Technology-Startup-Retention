@@ -17,9 +17,9 @@ Proyecto realizado en el bootcamp de [Laboratoria](https://app.laboratoria.la/si
 
 ## Contexto
 
-En este proyecto, se simulará ser la analista de datos junior de una startup de tipo Software as a Service (SaaS) cuyo producto de venta es un software de gestión de gastos al que pueden acceder los clientes a través de la web y a cambio le cobran una suscripción mensual por usarlo.
+>En este proyecto, se simulará ser la analista de datos junior de una startup de tipo Software as a Service (SaaS) cuyo producto de venta es un software de gestión de gastos al que pueden acceder los clientes a través de la web y a cambio le cobran una suscripción mensual por usarlo.
 
-El objetivo es ayudar a la CEO de la startup a determinar si la inversión recibida será usada en “mejorar el producto” o usada para “expandirse consiguiendo más clientes”. Para lograr el objetivo, se tendrá que descubrir si el producto que ofrecen ha alcanzado el Product-Market Fit por medio de un análisis de retención por cohortes
+>El objetivo es ayudar a la CEO de la startup a determinar si la inversión recibida será usada en “mejorar el producto” o usada para “expandirse consiguiendo más clientes”. Para lograr el objetivo, se tendrá que descubrir si el producto que ofrecen ha alcanzado el Product-Market Fit por medio de un análisis de retención por cohortes
 
 ![](/Dataset_1.jpg)
 
