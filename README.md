@@ -39,7 +39,8 @@ En este proyecto se realizó un análisis a partir de un conjunto de datos sobre
   </a>
 </div>
 
-**Contenido:
+
+#### Contenido:
   
 - Porcentaje de retención de clientes por mes 
 - Porcentaje de retención de clientes por trimestre
