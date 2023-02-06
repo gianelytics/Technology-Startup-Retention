@@ -1,38 +1,40 @@
-<div align="center"> <h1>Retención Startup Tecnológica </h1> 
+<div align="center"> <h1>Technology Startup Retention </h1> 
 
 ![](/Portada-1.jpg)
 
-Proyecto realizado en el bootcamp de [Laboratoria](https://app.laboratoria.la/signup-and-login/) e IBM
+Project carried out in the bootcamp of [Laboratoria](https://app.laboratoria.la/signup-and-login/) and IBM
 </div>
 
-## 🎓 Objetivos del proyecto
+❕ [SEE VERSION SPANISH EDITION](https://github.com/gianelytics/Data-analytics-Project-2/blob/9b0c14ed31116cc5f02f5edddbc7cfee0d0cee06/README_spanish.md)
 
-- Organizar datos en hojas de cálculo
-- Seleccionar y filtrar datos utilizando Queries
-- Manipular datos en hojas de cálculo
-- Entender el concepto de Product Market Fit
-- Realizar un análisis por cohorte
-- Tomar decisiones de negocio basadas en data
+## 🎓 Project objectives
+
+- Organizing data in spreadsheets
+- Selecting and filtering data using Queries
+- Manipulating data in spreadsheets
+- Understanding the concept of Product Market Fit
+- Performing a cohort analysis
+- Making business decisions based on data
 
 
-## Contexto
+## 📌 Context
+> In this project, you will simulate being the junior data analyst of a Software as a Service (SaaS) startup whose sales product is a expense management software that customers can access through the web and pay a monthly subscription fee to use it.
 
->En este proyecto, se simulará ser la analista de datos junior de una startup de tipo Software as a Service (SaaS) cuyo producto de venta es un software de gestión de gastos al que pueden acceder los clientes a través de la web y a cambio le cobran una suscripción mensual por usarlo.
-
->El objetivo es ayudar a la CEO de la startup a determinar si la inversión recibida será usada en “mejorar el producto” o usada para “expandirse consiguiendo más clientes”. Para lograr el objetivo, se tendrá que descubrir si el producto que ofrecen ha alcanzado el Product-Market Fit por medio de un análisis de retención por cohortes
+>The objective is to help the startup CEO determine if the received investment will be used to "improve the product" or to "expand by acquiring more customers". To achieve the objective, you will have to discover if the product they offer has achieved the Product-Market Fit through a retention cohort analysis.
 
 ![](/Dataset_1.jpg)
 
-## Reporte
 
-    Realizar un análisis por cohorte para medir la retención de una Saas Tecnológica
+## 🔎Report
 
-En este proyecto se realizó un análisis a partir de un conjunto de datos sobre los clientes que usan un software de gestión de gastos en la nube.
+    Analyze a cohort to measure the retention of a technology SaaS
 
-<h3 align="left"> 📝 <a href="https://docs.google.com/spreadsheets/d/1JikkQmyqWjzyq7ZJAeVr1LvYGQkRuKlRCSY7pJWkkfI/edit?usp=sharing">Proyecto2: Reporte Google Sheets</a>
-</h3>
+>In this project, an analysis was carried out from a dataset on customers who use a cloud expense management software.
 
-## Solución
+> <h4 align="left"> 📝 <a href="https://docs.google.com/spreadsheets/d/1JikkQmyqWjzyq7ZJAeVr1LvYGQkRuKlRCSY7pJWkkfI/edit?usp=sharing">Project: Google Sheets Report</a>
+</h4>
+
+## Solution
 <div align="center">
   
 <a target="_blank" href="https://www.loom.com/share/2c86d07be73f44129c84a6433b162720" rel="noopener noreferrer" >![](https://cdn.loom.com/sessions/thumbnails/2c86d07be73f44129c84a6433b162720-1675567549093-with-play.gif)
@@ -40,14 +42,13 @@ En este proyecto se realizó un análisis a partir de un conjunto de datos sobre
 </div>
 
 
-#### Contenido:
-  
-- Porcentaje de retención de clientes por mes 
-- Porcentaje de retención de clientes por trimestre
-- Porcentaje de abandono de cliente por mes
-- Porcentaje de abandono de cliente por trimestre
-- El mes o trimestre donde perdieron más clientes
+### 📄Contents:
+- Percentage of customer retention per month
+- Percentage of customer retention per quarter
+- Percentage of customer abandonment per month
+- Percentage of customer abandonment per quarter
+- The month or quarter where they lost the most customers
 
 ### 🏷️Tags
 
-`Spreadsheets` | `Análisis por cohortes` | `Negocios` | `Visualización`
+`Spreadsheets` | `Cohort analysis` | `Business` | `Visualization`
