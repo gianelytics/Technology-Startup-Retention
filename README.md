@@ -49,6 +49,6 @@ Project carried out in the bootcamp of [Laboratoria](https://app.laboratoria.la/
 - Percentage of customer abandonment per quarter
 - The month or quarter where they lost the most customers
 
-### 🏷️Tags
+## 🏷️Tags
 
 `Spreadsheets` | `Cohort analysis` | `Business` | `Visualization`
